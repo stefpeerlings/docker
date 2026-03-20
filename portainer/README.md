@@ -1,0 +1,1 @@
+Dit is mijn configuratie om Portainer met Docker Compose te draaien.
